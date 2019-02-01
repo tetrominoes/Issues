@@ -19,3 +19,6 @@ I can see who it is assigned to in github.
 7) Update Project Boards.
 8) Communicate issues and problems with group.
 9) Keep documentation up to date.
+
+### Open Source Policy
+[here](https://www.contributor-covenant.org/)
