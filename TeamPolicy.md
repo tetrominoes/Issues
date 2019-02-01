@@ -7,3 +7,4 @@
 7) Update Project Boards.
 8) Communicate issues and problems with group.
 9) Keep documentation up to date.
+10) Trevor
