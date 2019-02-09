@@ -1,4 +1,4 @@
-# Welcome To Tetrominoes Organization
+# Welcome To Tetrominoes Organization ヽ(･ϖ･ゞ)
 
 ## New Members
 Proceed to Initiation Checklist before contributing any projects
