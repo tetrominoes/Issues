@@ -15,6 +15,7 @@
    - Keep shared Google Drive Organized by creating meaningful directories.
 6. Team members should keep their code fully documented.
 7. If there are concerns not addressed by the team policy, discuss them with the team.
+8. Have team related account information available to all team members.
 
 ### Open Source Policy
 ---
